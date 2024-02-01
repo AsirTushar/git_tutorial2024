@@ -1,3 +1,4 @@
 Not so great
 HUH! this is the second line.
-The second line is false.
+The second line is false
+The previous line is true
